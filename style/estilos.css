@@ -1,0 +1,25 @@
+html{
+    font-family: 'Quicksand';
+ }
+body{
+   font-family: 'Quicksand';
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Quicksand';
+    
+ }
+ .cabeza{
+    position: relative !important;
+  
+ }
+.ojoDerecho{
+   position: relative !important;
+   left: -190px;
+   top: 14px;
+
+}
+.ojoIzquierdo{
+   position: relative !important;
+   right: 129px;
+   top: 14px;
+}
